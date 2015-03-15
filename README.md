@@ -4,7 +4,6 @@ Simple Single Image, or Multiple Image Uploader. Using Nodejs and Expressjs
 # How To
 
 1. Make sure you have NodeJS installed.
-
 2. Install Express
    `npm install express -g`
 3. Install Node FS Library
