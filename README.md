@@ -18,15 +18,15 @@ Simple Single Image, or Multiple Image Uploader. Using Nodejs and Expressjs
 
 # Single Image
 
-<form action="/single-image" method="POST" >
+`<form action="/single-image" method="POST" >
   <input type="file" name="file" accept="image/*">
   <button type="submit">Submit</button>
-</form>
+</form>`
 
 # Multiple Image
 
-<form action="/multiple-images" method="POST" >
+`<form action="/multiple-images" method="POST" >
   <input type="file" name="file" accept="image/*" multiple>
   <button type="submit">Submit</button>
-</form>
+</form>`
   
