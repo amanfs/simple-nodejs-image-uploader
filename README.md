@@ -1,4 +1,4 @@
-# simple-nodejs-image-uploader
+# NodeJS Image Uploader
 Simple Single Image, or Multiple Image Uploader. Using Nodejs and Expressjs
 
 # How To
