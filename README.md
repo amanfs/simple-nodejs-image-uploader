@@ -10,8 +10,9 @@ Simple Single Image, or Multiple Image Uploader. Using Nodejs and Expressjs
   `npm install node-fs -g`
 4. Install any additional node packages by running 
   `npm install` 
-5. Cd into directory, type `node app.js` to run node application
-6. Create POST forms on html to /single-image to upload a single image, or /multiple-images for sending more than one.
+5. Change directory paths to where you want images to save in `/app.js` file.
+6. Cd into directory, type `node app.js` to run node application
+7. Create POST forms on html to /single-image to upload a single image, or /multiple-images for sending more than one.
 
 # Example
 
